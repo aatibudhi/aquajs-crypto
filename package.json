@@ -1,0 +1,54 @@
+{
+  "name": "aquajs-crypto",
+  "version": "0.0.1",
+  "description": "aqua js crypto",
+  "keywords": [
+    "crypto"
+  ],
+  "homepage": "https://github.com/aquajs/aquajs-crypto",
+  "license": "",
+  "engines": {
+    "node": ">=0.6.0"
+  },
+  "maintainers": [
+    {
+      "name": "aatibudhi",
+      "email": "aatibudhi@equinix.com"
+    }
+  ],
+  "bugs": {
+    "url": "http://equinix.com/aquajs-crypto"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/equinix/gse-common.git"
+  },
+  "publishConfig": {
+    "registry": "http://nexus.corp.equinix.com/nexus/content/repositories/Equinix-AquaJS-Release/"
+  },
+  "dependencies": {
+    "crypto": "latest"
+  } ,
+  "scripts": {
+    "test": "mocha"
+  },
+  "main": "./index.js",
+  "gypfile": true,
+  "readme": "aqua js crypto",
+  "readmeFilename": "README.md",
+  "gitHead": "2bfbe1b3947b79fb859b29c004d7624c93b8f6df",
+  "_id": "aquajs-crypt@0.0.1",
+  "_shasum": "08803eb449cdfe3075e07be1c76e3399072a8a66",
+  "_from": "aquajs-error@latest",
+  "_npmVersion": "2.11.3",
+  "_nodeVersion": "0.12.7",
+  "_npmUser": {
+    "name": "aatibudhi",
+    "email": "aatibudhi@equinix.com"
+  },
+  "dist": {
+    "shasum": "08803eb449cdfe3075e07be1c76e3399072a8a66",
+    "tarball": "http://nexus.corp.equinix.com/nexus/content/groups/Equinix-NPM-Release/aquajs-error/-/aquajs-crypt-0.0.1.tgz"
+  },
+  "_resolved": "http://nexus.corp.equinix.com/nexus/content/groups/Equinix-NPM-Release/aquajs-error/-/aquajs-crypto-0.0.1.tgz"
+}
